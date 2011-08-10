@@ -1,14 +1,17 @@
-# Calculating Credit Score:
+Calculating Credit Score:
+=========================
 
-## Traditional Credit Score Calculation:
+Traditional Credit Score Calculation:
+-------------------------------------
 
-35 percent of the score is based on your payment history
-30 percent of the score is based on outstanding debt.
-15 percent of the score is based on the length of time you've had credit.
-10 percent of the score is based on new credit. 
-10 percent of the score is based on the types of credit you currently have
+ * 35 percent of the score is based on your payment history
+ * 30 percent of the score is based on outstanding debt.
+ * 15 percent of the score is based on the length of time you've had credit.
+ * 10 percent of the score is based on new credit. 
+ * 10 percent of the score is based on the types of credit you currently have
 
-## Mapping to iamwhoi.am
+Mapping to iamwhoi.am
+---------------------
 
 ### Payment History:
 
